@@ -1,0 +1,1 @@
+APK distribution mirror (CDN) for Proxy Menu auto-update.
